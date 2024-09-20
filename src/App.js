@@ -4,6 +4,7 @@ import About from "./components/AboutUs";
 import Gallery from "./components/Gallery";
 import Feedback from "./components/Feedback";
 import Search from "./components/Search";
+
 const App = () => {
   return ( 
     <>
